@@ -3,6 +3,7 @@ pip
 setuptools
 setuptools_scm[toml]
 tox
+tox-pyenv
 twine
 wheel
 build

@@ -10,3 +10,4 @@ help/
 *.egg-info
 dist/
 .eggs/
+.python-version
