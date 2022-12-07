@@ -50,7 +50,7 @@ IG_LIVE_CA_CERT = pkg_resources.resource_filename('mesh_client', "nhs-ig-live-ca
 _OPTIONAL_HEADERS = {
     "workflow_id": "Mex-WorkflowID",
     "filename": "Mex-FileName",
-    "local_id": "Mex-LocalID",
+    "local_id": "Mex-Localid",
     "message_type": "Mex-MessageType",
     "process_id": "Mex-ProcessID",
     "subject": "Mex-Subject",
